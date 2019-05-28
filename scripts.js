@@ -260,7 +260,7 @@ let shapes = function(p) {
             p.texture(img);
             
         } else {
-            p.fill(250, 0, 0);
+            p.texture(img);
         }    
 //        
 //        p.fill(250, 0, 0);
